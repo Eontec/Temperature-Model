@@ -43,7 +43,7 @@ The Jupyter Notebook explores multiple machine learning methods to predict the i
    
 2. **Modeling**: 
    - **Random Forest Regressor:** Handles the non-linear relationship between categorical grid/weather features and continuous temperature outputs exceptionally well.
-   - **Multi-Layer Perceptron (Neural Network):** Provided as an experimental deep-learning baseline for comparison.
+   - **Support Vector Regression:** Machine learning algorithm used to predict continuous numerical values rather than discrete classes, Used as an Alternative algorithm for comparison and testing.
 
 3. **Evaluation**: Both models check target splits based on Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared variance captured.
 
